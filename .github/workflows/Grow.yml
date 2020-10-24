@@ -2,7 +2,7 @@ name: Download File
 on:
   gollum
 jobs:
-  Download File:
+  Downloading:
     runs-on: ubuntu-latest
     steps:
     - name: Prepare your file
