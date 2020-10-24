@@ -1,4 +1,4 @@
-name: Grow
+name: Download File
 on:
   gollum
 jobs:
